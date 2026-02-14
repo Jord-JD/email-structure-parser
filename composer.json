@@ -18,7 +18,7 @@
     }
   },
   "replace": {
-    "jord-jd/email-structure-parser": "self.version"
+    "divineomega/email-structure-parser": "self.version"
   },
   "extra": {
     "branch-alias": {
