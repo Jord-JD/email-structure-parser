@@ -8,7 +8,7 @@ You can easily install the Email Structure Parser package using the following
 Composer command.
 
 ```bash
-composer require divineomega/email-structure-parser
+composer require jord-jd/email-structure-parser
 ```
 
 ## Usage
