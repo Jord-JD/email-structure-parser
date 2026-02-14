@@ -1,10 +1,10 @@
 <?php
 
-namespace DivineOmega\EmailStructureParser;
+namespace JordJD\EmailStructureParser;
 
 /**
  * Class EmailStructureParser
- * @package DivineOmega\EmailStructureParser
+ * @package JordJD\EmailStructureParser
  */
 class EmailStructureParser
 {

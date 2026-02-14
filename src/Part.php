@@ -1,6 +1,6 @@
 <?php
 
-namespace DivineOmega\EmailStructureParser;
+namespace JordJD\EmailStructureParser;
 
 class Part
 {

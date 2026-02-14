@@ -1,6 +1,6 @@
 <?php
 
-use DivineOmega\EmailStructureParser\EmailStructureParser;
+use JordJD\EmailStructureParser\EmailStructureParser;
 
 require_once('vendor/autoload.php');
 

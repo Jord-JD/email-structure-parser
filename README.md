@@ -24,7 +24,7 @@ retrieve an array of parsed email parts split up by mime type.
 See the example usage code below.
 
 ```php
-use DivineOmega\EmailStructureParser\EmailStructureParser;
+use JordJD\EmailStructureParser\EmailStructureParser;
 
 // Connect to mailbox
 $imapStream = imap_open('{outlook.office365.com:993/ssl/novalidate-cert}INBOX', getenv('USERNAME'), getenv('PASSWORD'));
